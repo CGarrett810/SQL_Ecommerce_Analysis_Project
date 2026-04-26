@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes an e-commerce dataset using SQL in BigQuery to evaluate business performance. The analysis focuses on revenue trends, product performance, customer behavior, and operational efficiency.
+This project analyzes an e-commerce dataset in BigQuery using SQL to evaluate business performance. The analysis focuses on revenue trends, product performance, customer behavior, and operational efficiency.
 
 ## Dataset Source
 
@@ -17,8 +17,9 @@ The dataset used in this project is the TheLook e-commerce dataset available thr
 
 ## Tools Used
 
-* SQL (Google BigQuery)
-* Jupyter Notebook
+* SQL 
+* Google BigQuery
+* Excel (for charts)
 
 ## Analysis Summary
 
