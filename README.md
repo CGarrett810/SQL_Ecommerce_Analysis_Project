@@ -46,7 +46,6 @@ Order statuses were analyzed to understand operational performance, including co
 * A subset of customers accounts for a high number of total orders.
 * Most orders are completed, but cancellations and returns highlight areas for operational improvement.
 ## Visualizations
-
 ![Revenue Trend](revenue_trend.png)
 
 ![Category Revenue](category_revenue.png)
