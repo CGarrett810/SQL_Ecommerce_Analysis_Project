@@ -11,12 +11,8 @@ The dataset used in this project is the TheLook e-commerce dataset available thr
 ## Business Questions
 
 1. How is revenue trending over time?
-   ![Revenue Trend](revenue_trend.png)
-
-2. Which product categories generate the most revenue?
-   ![Category Revenue](category_revenue.png)
-
-3. Who are the most active customers?
+ 2. Which product categories generate the most revenue?
+  3. Who are the most active customers?
 4. What is the distribution of order statuses?
 
 ## Tools Used
@@ -49,7 +45,11 @@ Order statuses were analyzed to understand operational performance, including co
 * A small number of product categories generate the majority of revenue.
 * A subset of customers accounts for a high number of total orders.
 * Most orders are completed, but cancellations and returns highlight areas for operational improvement.
+## Visualizations
 
+![Revenue Trend](revenue_trend.png)
+
+![Category Revenue](category_revenue.png)
 ## Files Included
 
 * SQL_Ecommerce_Analysis.ipynb (Jupyter Notebook with queries and insights)
