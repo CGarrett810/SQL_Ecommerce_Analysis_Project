@@ -13,9 +13,11 @@ The dataset used in this project is the TheLook e-commerce dataset available thr
 1. How is revenue trending over time?
    ## 📈 Revenue Over Time
 ![Revenue Trend](revenue_trend.png)
+
 2. Which product categories generate the most revenue?
 ## 📊 Revenue by Category
 ![Category Revenue](category_revenue.png)
+
 3. Who are the most active customers?
 4. What is the distribution of order statuses?
 
